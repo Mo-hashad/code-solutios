@@ -146,7 +146,7 @@ ul li:hover .submenu{
     
     height: 100%;
     width: 10%;
-    border: 1px solid whitesmoke;
+    border: 1px solid #212e5e;
     border-radius: 60px;
     position: relative;
     cursor: pointer;
